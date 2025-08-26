@@ -8,7 +8,7 @@ Me chamo João Vitor Rodrigues Santos, tenho 23 anos e sou natural de teresina. 
 **`Informações para contato:`**  
 
 Telefone: (86) 9 9802-7136  
-Gmeil: joaovitorrs2017@gmail.com  
+Gmail: joaovitorrs2017@gmail.com  
 Instagram: [joao_vitor_rodrigues](https://www.instagram.com/joao_vitor_rs_/)  
 Linkedin: ...
 
