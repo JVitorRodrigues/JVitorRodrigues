@@ -1,9 +1,11 @@
-#  👨‍💻 JVitor Rodrigues 
+#  👨🏻‍💻 JVitor Rodrigues 
 
-**` Perfil Estudantil `**
+**` 🚀 Sobre mim `**
 
-Me chamo João Vitor Rodrigues Santos, tenho 23 anos e sou natural de teresina. Concluí o ensino médio na U.E Severiano Sousa. Atualmente, estou cursando Engenharia de Software no Centro Universitário Santo Agostinho (UNIFSA). Estou encantado com o mundo da programação e busco me qualificar cada vez mais na área, para que eu possa atender todas as expectativas como proficional da área de software.
+Olá! Me chamo João Vitor Rodrigues Santos, tenho 23 anos e sou natural de Teresina (PI). Sou estudante de Engenharia de Software no Centro Universitário Santo Agostinho (UNIFSA) e tenho grande entusiasmo pelo universo da tecnologia e da programação. 
+Atualmente, estou em constante evolução, buscando aprimorar minhas habilidades técnicas e desenvolver soluções eficientes e bem estruturadas. Tenho como objetivo me tornar um profissional qualificado, capaz de atender às demandas do mercado e contribuir com projetos inovadores na área de software.
 
+📚 Estou sempre aprendendo novas tecnologias, boas práticas de desenvolvimento e me desafiando com projetos que ampliem meu conhecimento.
 
 **`Informações para contato:`**  
 
@@ -25,4 +27,75 @@ Linkedin: ...
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/JVitorRodrigues?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas">  
             
-### 💻 Repositório de Códigos (Acadêmico):
+### 💻 Linguagens e Tecnologias
+
+<img 
+    aling="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="50px" 
+    style="margin-right: 70px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"         
+/>
+<img 
+    aling="left" 
+    alt="Java"
+    title="Java" 
+    width="50px" 
+    style="margin-right: 70px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    aling="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="margin-right: 70px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    aling="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="margin-right: 70px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    aling="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="50px" 
+    style="margin-right: 70px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"       
+/>
+<img 
+    aling="left" 
+    alt="Git" 
+    title="Git"
+    width="50px" 
+    style="margin-right: 70px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+---
+
+### 📊 Estatísticas
+<p>
+      <img
+          align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JVitorRodrigues&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&=false&locale=pt-br"
+        />
+<br/>
+    <img
+          align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JVitorRodrigues&langs_count=8&layout=compact&theme=midnight-purple&locale=pt-br"
+        />    
+</p>
+
+  <br/>
