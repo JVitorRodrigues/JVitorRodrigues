@@ -85,7 +85,7 @@ Atualmente, estou em constante evolução, buscando aprimorar minhas habilidades
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JVitorRodrigues&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&=false&locale=pt-br"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JVitorRodrigues&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&=false&locale=pt-br&rank_icon=github"
         />
 <br/>
     <img
