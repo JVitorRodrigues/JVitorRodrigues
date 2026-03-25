@@ -23,8 +23,9 @@ Atualmente, estou em constante evolução, buscando aprimorar minhas habilidades
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/JVitorRodrigues?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas">
-            
-### 💻 Linguagens e Tecnologias
+</a>
+ 
+`💻 Linguagens e Tecnologias`
 
 <img 
     aling="left" 
