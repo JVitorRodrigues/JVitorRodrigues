@@ -7,13 +7,10 @@ Atualmente, estou em constante evolução, buscando aprimorar minhas habilidades
 
 📚 Estou sempre aprendendo novas tecnologias, boas práticas de desenvolvimento e me desafiando com projetos que ampliem meu conhecimento.
 
-**`Informações para contato:`**  
-
-Telefone: (86) 9 9802-7136  
-Gmail: joaovitorrs2017@gmail.com  
-Instagram: [joao_vitor_rodrigues](https://www.instagram.com/joao_vitor_rs_/)  
-Linkedin: ...
-
+**`Informações para contato:`** 
+ <div> 
+  <a href="https://instagram.com/joao_vitor_rs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://discord.gg/cronos_gamer" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href = "mailto:joaovitorrs2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://t.me/JVitorRodrigues"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href = "https://wa.me/qr/UTEHP5KM2QSC1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
+</div>
 
 <a href="https://github.com/JVitorRodrigues?tab=followers">
         <img 
@@ -25,7 +22,7 @@ Linkedin: ...
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JVitorRodrigues?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas">  
+            src="https://custom-icon-badges.demolab.com/github/stars/JVitorRodrigues?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas">
             
 ### 💻 Linguagens e Tecnologias
 
